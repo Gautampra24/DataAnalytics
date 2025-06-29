@@ -48,7 +48,7 @@ Thanks to **@Satish Dhawale's Power BI tutorials**, I gained hands-on experience
 > *(Add a screenshot image of your dashboard here)*  
 Example:
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Gautampra24/DataAnalytics/commit/c99cd927daa328328ef28ea7e368b4821be68088)
 
 ---
 
